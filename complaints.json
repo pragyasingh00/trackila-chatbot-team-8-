@@ -1,0 +1,25 @@
+[
+    {
+        "id": "CMP28526",
+        "name": "Pragya And The Bus Driver Of",
+        "bus_number": "101",
+        "issue": "i want register the complain my name is pragya and the bus driver of 101 is very rude",
+        "time": "2025-08-24T15:12:06.285322"
+    },
+    {
+        "bus_number": "702",
+        "complaint": "i hace issue with bus 702 the driver was very rude "
+    },
+    {
+        "bus_number": "202",
+        "complaint": "bus 202 was late today"
+    },
+    {
+        "bus_number": "1001",
+        "complaint": "there is a problem with bus 1001 it was overcrowded"
+    },
+    {
+        "bus_number": "702",
+        "complaint": "i have issue with bus 702 driver was very rude "
+    }
+]

@@ -117,4 +117,4 @@ Bot: ✅ Your complaint has been logged. Ticket ID: C-1001
 ---
 
 ##  Authors
-Team 8 : Pragya singh , Jatin Yadav , Dendi priyanka reddy  – Internship Challenge 2025
+Team 8 : Pragya singh , Jatin Yadav , Dendi priyanka reddy 

@@ -14,7 +14,7 @@ import re
 loader = DataLoader("data/sample_buses.json")
 BUSES = loader.load_json()
 
-print("🤖 Trackila Chatbot started! Type 'exit' to quit.")
+print(" Trackila Chatbot started! Type 'exit' to quit.")
 
 # -------- Helper: bilingual response --------
 def respond(message_en, message_hi, lang="en"):
@@ -24,7 +24,7 @@ def respond(message_en, message_hi, lang="en"):
 while True:
     user_input = input("You: ")
     if user_input.strip().lower() in ("exit", "quit", "bye"):
-        print("Bot: Goodbye! Have a safe journey 👋 / अलविदा! शुभ यात्रा 🚍")
+        print("Bot: Goodbye! Have a safe journey  / अलविदा! शुभ यात्रा ")
         break
 
     # detect intent
@@ -271,3 +271,4 @@ while True:
         "Maaf kijiye, main samajh nahi paya. Kya aap ise dobara keh sakte hain?",
         lang
     ))
+
